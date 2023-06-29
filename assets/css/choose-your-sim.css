@@ -1,0 +1,30 @@
+.choose-your-sim-container {
+    display: flex;
+}
+
+.choose-your-sim-box {
+    width: 50%;
+    height: 200px;
+    background-color: lightgray;
+    margin-right: 10px;
+    cursor: pointer;
+    border-radius: 25px 25px 80px 25px;
+}
+
+.choose-your-sim-box1 {
+    width: 50%;
+    height: 200px;
+    background-color: white;
+    margin-right: 10px; 
+    border-radius: 25px 25px 80px 25px;
+}
+
+.choose-your-sim-box.selected {
+    background-color: gray;
+}
+
+.choose-your-sim-co {
+background-color: white;
+padding: 50px;
+}
+ 
